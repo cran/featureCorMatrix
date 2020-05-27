@@ -1,0 +1,12 @@
+7d28621cd3502e6626679249aa440254 *DESCRIPTION
+2413f289bf9038c179d7b279cd947ce2 *NAMESPACE
+ba8aedca9130c5b000f332398ffba255 *R/GermanCredit.R
+2c64b50e7675506000cf4cffd6fedfbc *R/cv.test.R
+7ec20ebcf45a6a35a20bf3044868451d *R/featureCorMatrix.R
+a30fd8332829335bcd1160c471c1992d *R/icc.R
+07ea851a4aa7b1fd01d2a7a05611e5f9 *README.md
+03303c3e1603c8015c29eb04a1cd7b9a *data/GermanCredit.rda
+54605db75ef53e2895cf44dd427b430c *man/GermanCredit.Rd
+bbd691b79b25c8edd932e73114d92c6c *man/cv.test.Rd
+1dd090a6529e1be4d2eb72e2c1eac390 *man/featureCorMatrix.Rd
+8b9a77e15b7670ece92d256ba4b2bc9e *man/icc.Rd
